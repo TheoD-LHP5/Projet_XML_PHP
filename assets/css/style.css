@@ -1,0 +1,35 @@
+body{
+    background-color:#D1D5DB;
+}
+
+.titlePage{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    font-weight: bold;
+}
+
+.textHome{
+    text-align: center;
+}
+
+.titleReno{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.gallery_box_single{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+}
+
+.caption-text{
+    font-style: italic;
+}
+
+.nav-link{
+    color: #F3F4F6!important;
+}
