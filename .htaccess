@@ -1,0 +1,5 @@
+rewriteEngine on
+rewriteRule ^1.html$ index.php?page=0
+rewriteRule ^2.html$ index.php?page=1
+rewriteRule ^3.html$ index.php?page=2
+rewriteRule ^4.html$ index.php?page=3
