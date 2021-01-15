@@ -15,9 +15,14 @@ if (isset($_GET["page"])) {
 
 <!doctype html>
 <html lang="fr">
+<<<<<<< HEAD
 
 <head>
     <title>Title</title>
+=======
+  <head>
+    <title>Php, XML</title>
+>>>>>>> d5a4881eb5b9a540f1e846d06048137cde0837f7
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
