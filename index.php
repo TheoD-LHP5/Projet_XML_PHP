@@ -41,16 +41,16 @@ if (isset($_GET["page"])) {
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="1.html"><?= $XML->page[0]->menu ?></a>
+                        <a class="nav-link" href="accueil.html"><?= $XML->page[0]->menu ?></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="2.html"><?= $XML->page[1]->menu ?></a>
+                        <a class="nav-link" href="qui-sommes-nous.html"><?= $XML->page[1]->menu ?></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="3.html"><?= $XML->page[2]->menu ?></a>
+                        <a class="nav-link" href="nos-clients-temoignent.html"><?= $XML->page[2]->menu ?></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="4.html"><?= $XML->page[3]->menu ?></a>
+                        <a class="nav-link" href="contact.html"><?= $XML->page[3]->menu ?></a>
                     </li>
                 </ul>
             </div>
